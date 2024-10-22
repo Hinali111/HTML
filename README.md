@@ -1,3 +1,3 @@
 # HTML
 for important topics of HTML
-needed for website
+needed for websites
